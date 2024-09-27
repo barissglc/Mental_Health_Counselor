@@ -1,4 +1,4 @@
-# zihinsel_Saglik_Danismani_llama3.28b - Zihinsel Sağlık Danışmanı Modeli
+# zihinsel_Saglik_Danismani_llama3.18b - Zihinsel Sağlık Danışmanı Modeli
 
 Bu proje, **zihinsel sağlık danışmanlığı** yapmak amacıyla fine-tune edilmiş bir dil modelidir.  
 `unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit` modeline dayanmaktadır ve zihinsel sağlık danışmanlığı konusundaki verilerle eğitilmiştir.

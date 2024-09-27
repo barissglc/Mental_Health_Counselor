@@ -26,7 +26,4 @@ Bu proje, **zihinsel sağlık danışmanlığı** yapmak amacıyla fine-tune edi
 ## Kullanım
 
 Fine-tune edilmiş modeli şu şekilde kullanabilirsiniz:
-
-```python
-from unsloth import FastLanguageModel
-model, tokenizer = FastLanguageModel.from_pretrained("zihinsel_Saglik_Danismani_llama3.28b")
+https://huggingface.co/barissglc/zihinsel_Saglik_Danismani_llama3.18b
